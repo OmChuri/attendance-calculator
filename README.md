@@ -55,15 +55,6 @@ https://omchuri.github.io/attendance-calculator/
 
 ---
 
-## Author
 
-Om Churi
 
-GitHub: https://github.com/OmChuri
-LinkedIn: https://www.linkedin.com/in/om-churi/
 
----
-
-## License
-
-This project is open source and available under the MIT License.
